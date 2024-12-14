@@ -5,7 +5,7 @@
 - 🌱 I’m currently a junior in Computer Science at the Kasetsart University Sriracha Campus
 - 📫 How to reach me: veeraya.lek@gmail.com
 - ✨ All About Me:
-- 💻 My Computer Science Project: 
+- 💻 My Computer Science Project: [Click here!](csproject.md) 
 - 😄 Pronouns: She/her
 
 
